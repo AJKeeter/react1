@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="293a6db6-b12f-4b93-bd66-a18714c92712" name="Default Changelist" comment="">
+    <list default="true" id="293a6db6-b12f-4b93-bd66-a18714c92712" name="Default Changelist" comment="imports fontawesome icon">
+      <change afterPath="$PROJECT_DIR$/src/components/users/Users.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/serviceWorker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/users/UserItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/users/UserItem.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -72,6 +67,7 @@
       <method v="2" />
     </configuration>
   </component>
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" RAKE_SPRING_PRE_LOADER_OPTION="true" RAILS_SPRING_PRE_LOADER_OPTION="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -82,8 +78,51 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579029319921</updated>
-      <workItem from="1579029322518" duration="2201000" />
+      <workItem from="1579029322518" duration="7600000" />
     </task>
+    <task id="LOCAL-00001" summary="adds navbar components to App.js">
+      <created>1579035226318</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579035226319</updated>
+    </task>
+    <task id="LOCAL-00002" summary="imports fontawesome icon">
+      <created>1579035247304</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1579035247304</updated>
+    </task>
+    <task id="LOCAL-00003" summary="adds .idea to gitignore file">
+      <created>1579035287991</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1579035287991</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Imports prop types and creates a navbar component">
+      <created>1579035315335</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1579035315335</updated>
+    </task>
+    <task id="LOCAL-00005" summary="imports UserItems">
+      <created>1579037038924</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1579037038924</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Creates UserItem.js, a component that shows a user's info on github finder">
+      <created>1579037120809</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1579037120809</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,5 +138,14 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="adds navbar components to App.js" />
+    <MESSAGE value="imports fontawesome icon" />
+    <MESSAGE value="adds .idea to gitignore file" />
+    <MESSAGE value="Imports prop types and creates a navbar component" />
+    <MESSAGE value="imports UserItems" />
+    <MESSAGE value="Creates UserItem.js, a component that shows a user's info on github finder" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creates UserItem.js, a component that shows a user's info on github finder" />
   </component>
 </project>
