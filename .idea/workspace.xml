@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="293a6db6-b12f-4b93-bd66-a18714c92712" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/layout/Spinner.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/layout/spinner.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/users/Search.js" afterDir="false" />
+    <list default="true" id="293a6db6-b12f-4b93-bd66-a18714c92712" name="Default Changelist" comment="Integrated Axios into the application and pulls users from github api">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/users/Users.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/users/Users.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/users/Search.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/users/Search.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -82,7 +79,7 @@
       <option name="presentableId" value="Default" />
       <updated>1579029319921</updated>
       <workItem from="1579029322518" duration="14186000" />
-      <workItem from="1579109134438" duration="1131000" />
+      <workItem from="1579109134438" duration="2747000" />
     </task>
     <task id="LOCAL-00001" summary="adds navbar components to App.js">
       <created>1579035226318</created>
