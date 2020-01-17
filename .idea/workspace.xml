@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="293a6db6-b12f-4b93-bd66-a18714c92712" name="Default Changelist" comment="Integrated Axios into the application and pulls users from github api">
+    <list default="true" id="293a6db6-b12f-4b93-bd66-a18714c92712" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/pages/About.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/users/Search.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/users/Search.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/users/Search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/users/UserItem.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/users/Users.js" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,6 +19,13 @@
   </component>
   <component name="FavoritesManager">
     <favorites_list name="react1" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -33,6 +45,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -80,7 +93,8 @@
       <updated>1579029319921</updated>
       <workItem from="1579029322518" duration="14186000" />
       <workItem from="1579109134438" duration="5669000" />
-      <workItem from="1579287459856" duration="813000" />
+      <workItem from="1579287459856" duration="4254000" />
+      <workItem from="1579292536794" duration="1681000" />
     </task>
     <task id="LOCAL-00001" summary="adds navbar components to App.js">
       <created>1579035226318</created>
@@ -145,7 +159,21 @@
       <option name="project" value="LOCAL" />
       <updated>1579123765943</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Implemented clear bar which coincides with the search bar">
+      <created>1579288607179</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1579288607179</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Implemented alerts for search bar">
+      <created>1579291506795</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1579291506795</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -174,6 +202,8 @@
     <MESSAGE value="Adds Users to Index page, utilizes a grid system for each user and places them into a container" />
     <MESSAGE value="Integrated Axios into the application and pulls users from github api" />
     <MESSAGE value="Integrated a clear button and created new prop types for different states" />
-    <option name="LAST_COMMIT_MESSAGE" value="Integrated a clear button and created new prop types for different states" />
+    <MESSAGE value="Implemented clear bar which coincides with the search bar" />
+    <MESSAGE value="Implemented alerts for search bar" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implemented alerts for search bar" />
   </component>
 </project>
