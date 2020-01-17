@@ -79,7 +79,8 @@
       <option name="presentableId" value="Default" />
       <updated>1579029319921</updated>
       <workItem from="1579029322518" duration="14186000" />
-      <workItem from="1579109134438" duration="2747000" />
+      <workItem from="1579109134438" duration="5669000" />
+      <workItem from="1579287459856" duration="813000" />
     </task>
     <task id="LOCAL-00001" summary="adds navbar components to App.js">
       <created>1579035226318</created>
@@ -137,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579046136426</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Integrated a clear button and created new prop types for different states">
+      <created>1579123765943</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1579123765943</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,6 +173,7 @@
     <MESSAGE value="Creates UserItem.js, a component that shows a user's info on github finder" />
     <MESSAGE value="Adds Users to Index page, utilizes a grid system for each user and places them into a container" />
     <MESSAGE value="Integrated Axios into the application and pulls users from github api" />
-    <option name="LAST_COMMIT_MESSAGE" value="Integrated Axios into the application and pulls users from github api" />
+    <MESSAGE value="Integrated a clear button and created new prop types for different states" />
+    <option name="LAST_COMMIT_MESSAGE" value="Integrated a clear button and created new prop types for different states" />
   </component>
 </project>
