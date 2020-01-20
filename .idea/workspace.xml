@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="293a6db6-b12f-4b93-bd66-a18714c92712" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/repos/RepoItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/repos/Repos.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/users/User.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/users/User.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/users/Search.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/users/Search.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -90,7 +88,7 @@
       <workItem from="1579029322518" duration="14186000" />
       <workItem from="1579109134438" duration="5669000" />
       <workItem from="1579287459856" duration="4254000" />
-      <workItem from="1579292536794" duration="10710000" />
+      <workItem from="1579292536794" duration="11768000" />
     </task>
     <task id="LOCAL-00001" summary="adds navbar components to App.js">
       <created>1579035226318</created>
@@ -176,7 +174,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579370928535</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Integrated repo and repo items to application">
+      <created>1579541093896</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1579541093896</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -208,6 +213,7 @@
     <MESSAGE value="Implemented clear bar which coincides with the search bar" />
     <MESSAGE value="Implemented alerts for search bar" />
     <MESSAGE value="Created a user page and linked them to associated object" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created a user page and linked them to associated object" />
+    <MESSAGE value="Integrated repo and repo items to application" />
+    <option name="LAST_COMMIT_MESSAGE" value="Integrated repo and repo items to application" />
   </component>
 </project>
