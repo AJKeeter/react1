@@ -2,13 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="293a6db6-b12f-4b93-bd66-a18714c92712" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/context/alert/AlertState.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/context/alert/alertContext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/context/alert/alertReducer.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/layout/Alert.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layout/Alert.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/users/Search.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/users/Search.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/users/User.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/users/User.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/users/Users.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/users/Users.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/context/github/GithubState.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/context/github/GithubState.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/context/github/githubContex.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/context/github/githubContext.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/context/github/githubReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/context/github/githubReducer.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -94,7 +96,7 @@
       <workItem from="1579029322518" duration="14186000" />
       <workItem from="1579109134438" duration="5669000" />
       <workItem from="1579287459856" duration="4254000" />
-      <workItem from="1579292536794" duration="21272000" />
+      <workItem from="1579292536794" duration="24297000" />
     </task>
     <task id="LOCAL-00001" summary="adds navbar components to App.js">
       <created>1579035226318</created>
@@ -215,7 +217,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579553404836</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Refactoring code to allow App.js to be clean and concise">
+      <created>1579563077886</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1579563077886</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -252,6 +261,7 @@
     <MESSAGE value="yeet" />
     <MESSAGE value="Refactors app classes to function components" />
     <MESSAGE value="Implemented Context Reducer and State for github finder" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implemented Context Reducer and State for github finder" />
+    <MESSAGE value="Refactoring code to allow App.js to be clean and concise" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactoring code to allow App.js to be clean and concise" />
   </component>
 </project>
