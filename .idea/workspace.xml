@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="293a6db6-b12f-4b93-bd66-a18714c92712" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/pages/Home.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/pages/NotFound.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netlify.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/context/github/GithubState.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/context/github/GithubState.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -90,7 +90,8 @@
       <workItem from="1579029322518" duration="14186000" />
       <workItem from="1579109134438" duration="5669000" />
       <workItem from="1579287459856" duration="4254000" />
-      <workItem from="1579292536794" duration="26310000" />
+      <workItem from="1579292536794" duration="27607000" />
+      <workItem from="1579572969731" duration="734000" />
     </task>
     <task id="LOCAL-00001" summary="adds navbar components to App.js">
       <created>1579035226318</created>
@@ -225,7 +226,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579569404586</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Final code refactor before deployment">
+      <created>1579571785575</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1579571785575</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -264,6 +272,7 @@
     <MESSAGE value="Implemented Context Reducer and State for github finder" />
     <MESSAGE value="Refactoring code to allow App.js to be clean and concise" />
     <MESSAGE value="Refactors code and changes up location of alert reducer, alert state, github reducer, github state, etc." />
-    <option name="LAST_COMMIT_MESSAGE" value="Refactors code and changes up location of alert reducer, alert state, github reducer, github state, etc." />
+    <MESSAGE value="Final code refactor before deployment" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final code refactor before deployment" />
   </component>
 </project>
